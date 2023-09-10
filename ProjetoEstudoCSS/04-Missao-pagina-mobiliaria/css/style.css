@@ -32,7 +32,7 @@ h3 {
 /* 1ª seção */
 
 .top {
-    background-color: #afddbd;
+    background-color: #afddfd;
 
 }
 
@@ -48,10 +48,10 @@ h3 {
 
 .paragrafo-top a {
     font-size: 18px;
-    color: #1d80c1;
+    color: #1d1d1d;
     text-decoration: none;
     margin: 0px 10px;
-    border-bottom: 2px #1d80c1 solid;
+    border-bottom: 2px #1d1d1d solid;
 }
 
 /* 2ª seção */
@@ -145,11 +145,3 @@ aproveitado estilos das seçoes anteriores
     padding: 2px 5px;
     border-radius: 5px;
 }
-
-
-
-
-
-
-
-
