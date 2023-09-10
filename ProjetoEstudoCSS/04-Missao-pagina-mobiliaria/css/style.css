@@ -1,0 +1,155 @@
+/* global */
+
+body {
+    margin: 0px;
+    font-family: Tahoma;
+}
+
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.paragrafo {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 10px auto;
+    text-align: justify;
+    width: 980px;
+}
+
+span {
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    line-height: 42px;
+    color: white;
+}
+
+/* 1ª seção */
+
+.top {
+    background-color: #afddbd;
+
+}
+
+.top img {
+    width: 150px;
+}
+
+.top .paragrafo {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.paragrafo-top a {
+    font-size: 18px;
+    color: #1d80c1;
+    text-decoration: none;
+    margin: 0px 10px;
+    border-bottom: 2px #1d80c1 solid;
+}
+
+/* 2ª seção */
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+/* 3ª seção */
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 , .sec-contato a{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.sec-sobre img , .sec-corretores img  {
+    width: 400px;
+}
+
+.sec-sobre span , .sec-corretores h3 , .sec-corretores span {
+    color: #1d80c1;
+}
+
+/* 4ª seção */
+
+.sec-servicos , .sec-contato {
+    background-color: #1d80c1;
+}
+
+.sec-servicos p {
+    color: white;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.sec-servicos ul {
+    margin: 40px auto;
+    width: 135px;
+}
+
+.sec-servicos li {
+    font-size: 22px;
+    color: white;
+    line-height: 42px;
+    text-align: left;
+}
+
+/* 5ª seção 
+aproveitado estilos das seçoes anteriores
+*/
+
+/* 6ª seção */
+.sec-contato iframe{
+    height: 350px;
+    width: 800px;
+
+}
+
+.sec-contato p{
+    color: white;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.sec-contato ul {
+    margin: 40px auto;
+    width: 210px;
+    list-style: none;
+}
+.sec-contato li {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.sec-contato a {
+    background-color: white;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
